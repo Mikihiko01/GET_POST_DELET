@@ -1,0 +1,86 @@
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "nev": "Peti",
+      "cim": "Az elveszet alma",
+      "ar": "300 ft",
+      "kategoria": "regény"
+    },
+    {
+      "id": 2,
+      "nev": "Adam",
+      "cim": "Az elveszet Körte",
+      "ar": "200 ft",
+      "kategoria": "történet"
+    },
+    {
+      "id": 3,
+      "nev": "MAri",
+      "cim": "Az elveszet szilva",
+      "ar": "200 ft",
+      "kategoria": "vers"
+    },
+    {
+      "id": 2,
+      "nev": "MAri",
+      "cim": "Az elveszet szilva",
+      "ar": "200 ft",
+      "kategoria": "vers"
+    },
+    {
+      "id": 3,
+      "nev": "MAri",
+      "cim": "Az elveszet szilva",
+      "ar": "200 ft",
+      "kategoria": "vers"
+    },
+    {
+      "id": 4,
+      "nev": "MAri",
+      "cim": "Az elveszet szilva",
+      "ar": "200 ft",
+      "kategoria": "vers"
+    },
+    {
+      "id": 6,
+      "nev": "MAri",
+      "cim": "Az elveszet szilva",
+      "ar": "200 ft",
+      "kategoria": "vers"
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    }
+  ]
+}
